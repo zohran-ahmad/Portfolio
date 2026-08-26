@@ -52,13 +52,13 @@ export const education = [
     period: "2023 — 2027",
     detail: "CGPA 9.33",
     coursework: [
-      "OOP & Low-Level Design",
+      "Object Oriented Programming",
       "Data Structures & Algorithms",
       "DBMS & SQL",
       "Operating Systems",
       "Computer Networks",
       "Compiler Design",
-      "Software Defined Networking",
+      "System Design",
     ],
   },
   {
@@ -82,7 +82,7 @@ export const education = [
 export const skills = [
   {
     category: "Languages",
-    items: ["Java", "JavaScript", "Python"],
+    items: ["Java", "JavaScript", "TypeScript", "Python"],
   },
   {
     category: "Frontend",
@@ -104,6 +104,10 @@ export const skills = [
     category: "Networking",
     items: ["Mininet", "Ryu (SDN)", "OpenFlow"],
   },
+  {
+    category: "Other Tools",
+    items: ["Git", "Github", "MS Excel", "MS Planner", "Figma"]
+  }
 ];
 
 export const projects = [
