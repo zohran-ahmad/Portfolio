@@ -7,7 +7,7 @@ import SectionHeading from "./SectionHeading";
 export default function Projects() {
   return (
     <section id="projects" className="py-24 md:py-32">
-      <div className="max-w-[1600px] mx-auto px-6 md:px-10">
+      <div className="max-w-[1100px] mx-auto px-6 md:px-10">
         <Reveal>
           <SectionHeading
             index="03"
