@@ -109,7 +109,7 @@ export default function Navbar() {
             onClick={() => setOpen(false)}
             className="mt-5 inline-flex items-center rounded-md bg-accent px-5 py-2.5 text-sm font-semibold text-void"
           >
-            Hire Me
+            Contact Me
           </a>
         </div>
       )}
