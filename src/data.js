@@ -49,7 +49,8 @@ export const education = [
   {
     degree: "B.Tech, Computer Science & Engineering",
     school: "S.R.M. Institute of Science and Technology (SRMIST), Kattankulathur",
-    period: "2023 — 2027",
+    start: "2023 Jun",
+    end: "Present",
     detail: "CGPA 9.33",
     coursework: [
       "Object Oriented Programming",
@@ -64,7 +65,8 @@ export const education = [
   {
     degree: "Higher Secondary Education",
     school: "Govt. Boys Higher Secondary School, Soura",
-    period: "2022 - 2023",
+    start: "2022",
+    end: "2023",
     detail: "XII Score: 92.4%",
     coursework: [
       "PCM",
@@ -74,7 +76,8 @@ export const education = [
   {
     degree: "Secondary Education",
     school: "Tyndale Biscoe School",
-    period: "2012 - 2022",
+    start: "2012",
+    end: "2022",
     detail: "X Score: 86.6%",
   },
 ];
