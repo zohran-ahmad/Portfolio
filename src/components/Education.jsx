@@ -7,7 +7,7 @@ import SectionHeading from "./SectionHeading";
 export default function Education() {
   return (
     <section id="education" className="py-24 md:py-32">
-      <div className="max-w-[1100px] mx-auto px-6 md:px-10">
+      <div className="max-w-[1600px] mx-auto px-6 md:px-10">
         <Reveal>
           <SectionHeading index="01" title="Education" />
         </Reveal>
@@ -20,11 +20,11 @@ export default function Education() {
                   <GraduationCap size={22} />
                 </div>
                 <div className="flex-1">
-                  <div className="flex flex-wrap items-start justify-between gap-x-4 gap-y-1">
+                  <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-1 sm:gap-x-4">
                     <h3 className="font-display text-xl font-semibold text-ink">
                       {item.degree}
                     </h3>
-                    <div className="text-right shrink-0">
+                    <div className="text-left sm:text-right shrink-0">
                       <div className="font-mono text-xs text-muted">
                         {formatPeriod(item.start, item.end)}
                       </div>
