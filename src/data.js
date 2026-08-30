@@ -121,7 +121,7 @@ export const projects = [
     tags: ["Python", "Sentence-Transformers", "FastAPI docs corpus"],
     links: { 
       code: "https://github.com/zohran-ahmad/hybrid-docs", 
-      demo: "" 
+      demo: "https://hybrid-docs.streamlit.app/" 
     },
   },
   {
