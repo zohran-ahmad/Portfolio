@@ -45,7 +45,7 @@ export default function Contact() {
       <div className="max-w-[1100px] mx-auto px-6 md:px-10">
         <Reveal>
           <SectionHeading
-            index="05"
+            index="06"
             title="Contact"
             subtitle={contact.blurb}
           />

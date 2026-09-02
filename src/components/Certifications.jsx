@@ -8,7 +8,7 @@ export default function Certifications() {
     <section id="certifications" className="py-24 md:py-32 bg-panel/30">
       <div className="max-w-[1100px] mx-auto px-6 md:px-10">
         <Reveal>
-          <SectionHeading index="04" title="Certifications" />
+          <SectionHeading index="05" title="Certifications" />
         </Reveal>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">

@@ -10,7 +10,7 @@ export default function Projects() {
       <div className="max-w-[1100px] mx-auto px-6 md:px-10">
         <Reveal>
           <SectionHeading
-            index="03"
+            index="04"
             title="Projects"
             subtitle="A selection of things I've built — spanning backend platforms, AI systems, and networking."
           />

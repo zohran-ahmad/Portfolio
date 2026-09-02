@@ -45,6 +45,18 @@ export const codeSnippet = `class Engineer {
 // currently: final year @ SRMIST
 // status: open to SDE roles`;
 
+export const experience = [
+  {
+    role: "Intern",
+    company: "Roche",
+    start: "Sep 2026", 
+    end: "Present", 
+    description:
+      "Working with the Global Analytics & Technology Center of Excellence (GATE) at Roche Services and Solutions (RSS) on data and analytics initiatives supporting Roche’s global business teams. Developing hands-on experience in SQL, Python, PySpark, AWS, data processing, and business intelligence, while learning to work with real-world datasets and solve business-oriented analytical problems. Collaborating with team members to analyze data, build data-driven solutions, and translate insights into meaningful outcomes.",
+    tags: [],
+  },
+];
+
 export const education = [
   {
     degree: "B.Tech, Computer Science & Engineering",

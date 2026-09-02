@@ -8,7 +8,7 @@ export default function Skills() {
       <div className="max-w-[1100px] mx-auto px-6 md:px-10">
         <Reveal>
           <SectionHeading
-            index="02"
+            index="03"
             title="Skills"
             subtitle="Tools and technologies I reach for most, grouped by where they show up in a project."
           />
