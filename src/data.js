@@ -147,6 +147,15 @@ export const projects = [
       demo: "" 
     },
   },
+  {
+    title: "RSSI-Based Range Localization Using Trilateration in WSN",
+    description: "A simulated sensor network where nodes find their own location from wireless signal strength, without GPS. Accurate to about 1.6 m, with averaging cutting errors by roughly 67% in noisy conditions.",
+    tags: ["Wireless Sensor Networks", "Localization", "RSSI", "Contiki", "Cooja", "Embedded C", "IoT"],
+    links: {
+      code: "https://github.com/zohran-ahmad/RSSI-Based-Range-Localization-Using-Trilateration-in-WSN",
+      demo: "",
+    }
+  },
 ];
 
 export const certifications = [
